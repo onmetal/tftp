@@ -1,4 +1,4 @@
-module github.com/pin/tftp/v3
+module github.com/onmetal/tftp/v3
 
 go 1.13
 
