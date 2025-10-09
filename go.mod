@@ -1,7 +1,7 @@
 module github.com/onmetal/tftp/v3
 
-go 1.21
+go 1.24.0
 
-require golang.org/x/net v0.35.0
+require golang.org/x/net v0.46.0
 
-require golang.org/x/sys v0.30.0 // indirect
+require golang.org/x/sys v0.37.0 // indirect
